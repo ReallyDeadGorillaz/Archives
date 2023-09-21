@@ -1,0 +1,578 @@
+[
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "измерение и мониторинг излучения атмосферы Земли",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Детектор оптического и уф-излучения"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "радиообмен с наземными средствами связи и управления",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Приёмник АЗН-В"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Вычисление",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Питание",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Связь",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Блок бортовых радио комплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Ориентация",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Система ориентации и позиционирования"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Навигация",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "отработка новых технологий фотоэлементов солнечных батарей",
+    "Owner": "АмГУ",
+    "Name": "Пассивный терморегулятор тепловых полей"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {},
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "мониторинг космической погоды на низких орбитах",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Детектор электронов и гамма-излучения"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "радиообмен с наземными средствами связи и управления",
+    "Owner": "НИЛАКТ",
+    "Name": "Приёмник АЗН-В$НИЛАКТ"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "Вычисление",
+    "Owner": "АмГУ",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "Питание",
+    "Owner": "АмГУ",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "Связь",
+    "Owner": "АмГУ",
+    "Name": "Блок бортовых радио комплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "Ориентация",
+    "Owner": "АмГУ",
+    "Name": "Система ориентации и позиционирования"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "АмГУ",
+    "Functions": "Навигация",
+    "Owner": "АмГУ",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "мониторинг плазмы ",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Детектор плазмы"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ФИАН Лебедева",
+    "Functions": "Изучение химического состава с помощью рентеновского излучения",
+    "Owner": "ФИАН Лебедева",
+    "Name": "Спектрофотометр рентгеновский"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Вычисление",
+    "Owner": "МГТУ Баумана",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Питание",
+    "Owner": "МГТУ Баумана",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Связь",
+    "Owner": "МГТУ Баумана",
+    "Name": "Блок бортовых радио комплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Ориентация",
+    "Owner": "МГТУ Баумана",
+    "Name": "Система ориентации и позиционирования"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Навигация",
+    "Owner": "МГТУ Баумана",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Хранение",
+    "Owner": "МГТУ Баумана",
+    "Name": "Система документирования Фото/Видео"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {},  
+    "Manufacturer": "АО Ангстрем",
+    "Functions": "Вычисление",
+    "Owner": "МГТУ Баумана",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Вычисление",
+    "Owner": "НГУ",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Питание",
+    "Owner": "НГУ",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Связь",
+    "Owner": "НГУ",
+    "Name": "Блок бортовых радио комплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Ориентация",
+    "Owner": "НГУ",
+    "Name": "Система ориентации и позиционирования"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Навигация",
+    "Owner": "НГУ",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "радиообмен с наземными средствами связи и управления",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Приёмник АЗН-В "
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "радиообмен с наземными средствами связи и управления",
+    "Owner": "НИИЯФ МГУ",
+    "Name": "Передатчик АЗН-В"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "радиообмен с наземными средствами связи и управления",
+    "Owner": "МГТУ Баумана",
+    "Name": "Приёмник АЗН-В"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Испытание ДУ",
+    "Owner": "МГТУ Баумана",
+    "Name": "Блок высокочастотного волнового плазменного двигателя"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "МГТУ Баумана",
+    "Functions": "Исследование звезд",
+    "Owner": "МГТУ Баумана",
+    "Name": "Звёздная камера"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ИПГ",
+    "Functions": "Измерение ионизирующего излучения",
+    "Owner": "МГТУ Баумана",
+    "Name": "Счетчик Гейгера"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ИПГ",
+    "Functions": "Определение скорости частиц",
+    "Owner": "МГТУ Баумана",
+    "Name": "Черенковский Детектор"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ИЗМИРАН",
+    "Functions": "Измерение отраженного излучения Земли",
+    "Owner": "МГТУ Баумана",
+    "Name": "Микрорадиометр"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ИЗМИРАН",
+    "Functions": "Прямое Измерение Магнитного поля Земли",
+    "Owner": "МГТУ Баумана",
+    "Name": "Магнитометр"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "ИСЗФ",
+    "Functions": "Изучение солнечной поверхности",
+    "Owner": "НГУ",
+    "Name": "Солнечный (ВУФ) телескоп коронограф"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Испытание антенны",
+    "Owner": "НГУ",
+    "Name": "Экспериментальная антенна"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НГУ",
+    "Functions": "Испытание радиомодуля",
+    "Owner": "НГУ",
+    "Name": "Бортовой радиомодуль"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Мониторинг Солнечной активности в мягком Re-диапазоне",
+    "Owner": "МИСиС",
+    "Name": "Солнечный рентгеновский спектрофотометр"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Тестирование элементов системы квантовой коммуникации",
+    "Owner": "МИСиС",
+    "Name": "Оптическая (лазерная связь)"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Вычисление",
+    "Owner": "МИСиС",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Питание",
+    "Owner": "МИСиС",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Связь",
+    "Owner": "МИСиС",
+    "Name": "Блок бортовых радиокомплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Ориентация",
+    "Owner": "МИСиС",
+    "Name": "Система ориентации и позиционирования"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИЛАКТ",
+    "Functions": "Навигация",
+    "Owner": "МИСиС",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Вычисление",
+    "Owner": "КубГТУ",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Питание",
+    "Owner": "КубГТУ",
+    "Name": "Система электроснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Связь",
+    "Owner": "КубГТУ",
+    "Name": "Блок бортовых радиокомплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Ориентация",
+    "Owner": "КубГТУ",
+    "Name": "Система ориентации и позиционировпния"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": "НИИЯФ МГУ",
+    "Functions": "Навигация",
+    "Owner": "КубГТУ",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "измерение излучения",
+    "Owner": "СГАУ",
+    "Name": "Микрорадиометр"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "измерение магнитного поля",
+    "Owner": "СГАУ",
+    "Name": "Два 3-х осевых магнитометра"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "мониторинг плазмы ",
+    "Owner": "СГАУ",
+    "Name": "Датчик плазмы"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "Сбор, хранение и обработка информации, управление",
+    "Owner": "СГАУ",
+    "Name": "Бортовая вычислительная машина"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "Питание",
+    "Owner": "СГАУ",
+    "Name": "Система электрснабжения"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "Bdot, фильтр Калмана, алгоритм QUEST, TRIAD, планировщик и т.д.",
+    "Owner": "СГАУ",
+    "Name": "Блок бортовых радиокомплексов"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "Ориентация",
+    "Owner": "СГАУ",
+    "Name": "Система ориентации и позиционировпния"
+  },
+  {
+    "TypeOfApparatus": 2,
+    "TRL": 6,
+    "Characteristics": {}, 
+    "Manufacturer": " Спутникс",
+    "Functions": "Навигация",
+    "Owner": "СГАУ",
+    "Name": "Навигационный Приёмник"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 0,
+    "Characteristics": {}, 
+    "Manufacturer": "АО НПО Лептон",
+    "Functions": "Измерение спектрального состава",
+    "Owner": "МГТУ Баумана",
+    "Name": "ИК Фурье-Спектрометр"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 0,
+    "Characteristics": {}, 
+    "Manufacturer": "АО НПО Лептон",
+    "Functions": "ДЗЗ",
+    "Owner": "МГТУ Баумана",
+    "Name": "Специальная камера для ДЗЗ"
+  },
+  {
+    "TypeOfApparatus": 1,
+    "TRL": 0,
+    "Characteristics": {}, 
+    "Manufacturer": "АО НПО Лептон",
+    "Functions": "Испытание ДУ",
+    "Owner": "МГТУ Баумана",
+    "Name": "Экспериментальная ДУ(электрическая абляционная импульсная)"
+  },
+]
